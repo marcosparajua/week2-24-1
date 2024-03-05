@@ -16,5 +16,8 @@
   },
   "dependencies": {
     "eslint-config-prettier": "^9.1.0"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
